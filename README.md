@@ -1,4 +1,7 @@
 # WattsStrogatzSmallWorld
+
+##For project detail, please read 'Watts-Strogatz Small World Simulation Project Report.pdf'
+
 This project is to simulate a small-world graph according to Watts-Strogatz Model. The smallworld graph consists of a ring lattice with 5000 nodes (N = 5000) and each node has 20 short range neighbors (k = 20). The goal is to understand the properties of small-world graphs through simulation.
 
 In this project, average path lengths, clustering coefficient of small-world
